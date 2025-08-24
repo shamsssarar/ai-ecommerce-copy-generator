@@ -7,7 +7,8 @@ Runs locally with **Ollama** (no API key required).
 ---
 
 ## 📸 Screenshot
-(Add a screenshot of your app here later, e.g. `docs/screenshot.png`)
+![App Screenshot](docs/s1.png)
+![App Screenshot](docs/s2.png)
 
 ---
 

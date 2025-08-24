@@ -11,6 +11,7 @@ frontend/dist/
 
 # Environment / Secrets
 *.env
+docs
 
 # OS / Editor
 .DS_Store
